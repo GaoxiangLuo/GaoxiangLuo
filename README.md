@@ -25,4 +25,4 @@ I'm a undergrad senior at the University of Minnesota (UMN) graduating Fall 2021
 &nbsp; <a href="mailto:luo00042@umn.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C5622AQHoFkzcEyvNbA/feedshare-shrink_1280/0/1632150000978?e=1642032000&v=beta&t=RcPSB4H8Fwrda3RZOPCol1yxBRqBx9oC145BuBEiuKo" width="600"/>
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C5622AQHoFkzcEyvNbA/feedshare-shrink_1280/0/1632150000978?e=1646870400&v=beta&t=XImP9S5Wwd1E2OyFxrNrBYr6DO-YzUGisVDwAJbNwqo" width="600"/>
