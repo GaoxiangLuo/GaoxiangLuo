@@ -16,7 +16,7 @@ class Me(ML Researcher):
         self.model    = ["Tranformer", "Diffusion", "Llama"]
         self.research = ["Generative AI", "Trustworthy ML", "Robustness",
                          "Inverse Problem", "AI for Healthcare"]
-        self.interest = ["Entrepreneurship", "IP", "VC Methods]
+        self.interest = ["Entrepreneurship", "IP", "VC Methods"]
         
 ```
 
