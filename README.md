@@ -94,7 +94,7 @@ My approach is simple: fast prototyping, measure everything.
 
 ## 💡 Philosophy
 
-Great research should live in production, not just in papers. I believe the best validation of an idea is when real users depend on it daily.
+I'm **AI-native**. Great research should live in production, not just in papers. I believe the best validation of an idea is when real users depend on it daily.
 
 I focus on:
 - **Research with immediate utility** — Every project should advance knowledge AND ship to users
